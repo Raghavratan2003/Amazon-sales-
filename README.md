@@ -45,10 +45,7 @@ Python, Pandas, Matplotlib, Seaborn
 5. **QUALITY CONTROL** → Flag and review low rated products 
    with minimal discounts — poor customer experience
 
-## Project Structure
-Amazon_Sales_Dataset.ipynb   # Main analysis notebook
-Amazon.csv                   # Dataset
 
 ## Connect
-LinkedIn: [your linkedin URL here]
+LinkedIn: https://www.linkedin.com/in/raghav-ratan-yadav/
 GitHub: https://github.com/Raghavratan2003
